@@ -5,6 +5,7 @@ requests/netcup_egg_tracker.egg-info
 **/config/
 .vscode/*
 **/__pycache__/
+**/pycharm/
 *.ini
 !__ini__.py
 *eggs_*
